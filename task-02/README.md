@@ -1,4 +1,4 @@
-# 📊 Project 3: Correlation Heatmap & Pairwise Relationships
+# 📊 TASK - 2 : Project 3: Correlation Heatmap & Pairwise Relationships
 
 This project is part of my **Data Science Internship at Syntecxhub**. The objective is to perform **Exploratory Data Analysis (EDA)** by analyzing relationships between numerical features using **Pearson Correlation**, **Heatmaps**, and **Pairplots**.
 
