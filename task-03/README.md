@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies Exploratory Data Analysis (EDA)
+# 📊 TASK - 3 : Project 2 🎬 Netflix Movies Exploratory Data Analysis (EDA)
 
 This project is part of my **Data Science Internship at Syntecxhub**.
 
